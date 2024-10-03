@@ -36,6 +36,7 @@ jobs:
           git rm -rf .
           cp -r build/* .
           rm -rf build
+          echo "clustergames.io" > CNAME
           git add .
           git commit -m "Deploy to GitHub Pages"
           git push -f origin gh-pages
