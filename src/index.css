@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav {
+  height: 100;
+  background-color: black;
+  width: 100vw;
+}
+
+.nav img {
+  display: flex;
+  justify-content: left;
+}
+
+.homeheader {
+  display: flex;
+  justify-content: center;
+  width: 100vw;        
+  margin: 0;  
+  padding: 0;
+}
+
+.homeheader img {
+  width: 100%; 
+  height: auto;
+}
+
+.slot-games {
+  padding: 20px;
+}
+
+.games-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.game-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  width: 200px;
+}
+
+.game-card img {
+  width: 100%;
+  height: auto;
+}
+
