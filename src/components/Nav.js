@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <div className='nav'>
-      <img src={headerImage} />
+      <img src={headerImage} alt="fu" />
     </div>
   )
 
