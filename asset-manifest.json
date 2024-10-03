@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01d25528.css",
+    "main.js": "/static/js/main.77ed5d17.js",
+    "static/js/453.a1163136.chunk.js": "/static/js/453.a1163136.chunk.js",
+    "static/media/home_header_wide.png": "/static/media/home_header_wide.7de03c30808c3d46516a.png",
+    "static/media/buffalo_cover.png": "/static/media/buffalo_cover.c052467dc8bbdca10e1d.png",
+    "static/media/bigbass_cover.png": "/static/media/bigbass_cover.8c7e4ee474a0be5e2ec6.png",
+    "static/media/mustang_cover.png": "/static/media/mustang_cover.ba09b68210fd134147cb.png",
+    "static/media/athena_cover.png": "/static/media/athena_cover.9aae4efac2a21abe30eb.png",
+    "static/media/gem_cover.png": "/static/media/gem_cover.99b0152af25ca862d7dc.png",
+    "static/media/forging_cover.png": "/static/media/forging_cover.7278184bf0a9370683c6.png",
+    "static/media/dynamite_cover.png": "/static/media/dynamite_cover.d04d05752c1f6e363734.png",
+    "static/media/treasure_cover.png": "/static/media/treasure_cover.709f6a90a12f2f9cdc9a.png",
+    "static/media/mysterymice_cover.png": "/static/media/mysterymice_cover.3aa287938ff5cc58db23.png",
+    "static/media/6jokers_cover.png": "/static/media/6jokers_cover.5a52ca6c79e4dcfc7bcb.png",
+    "static/media/frontrunner_cover.png": "/static/media/frontrunner_cover.620b10b5397f0af50604.png",
+    "static/media/yeti_cover.png": "/static/media/yeti_cover.409af2a5779d5551f604.png",
+    "static/media/oodles_cover.png": "/static/media/oodles_cover.3061385968b1072cee19.png",
+    "static/media/sumo_cover.png": "/static/media/sumo_cover.3be88404463d83480f5f.png",
+    "index.html": "/index.html",
+    "main.01d25528.css.map": "/static/css/main.01d25528.css.map",
+    "main.77ed5d17.js.map": "/static/js/main.77ed5d17.js.map",
+    "453.a1163136.chunk.js.map": "/static/js/453.a1163136.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d25528.css",
+    "static/js/main.77ed5d17.js"
+  ]
+}
