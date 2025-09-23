@@ -1,5 +1,5 @@
 import React from 'react'
-import headerImage from '../images/home_header_wide.png'
+import headerImage from '../images/cg_header.png'
 
 
 export default function Header() {
