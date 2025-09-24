@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
@@ -23,14 +24,37 @@ code {
   justify-content: left;
 }
 
-.homeheader {
-  display: flex;
-  justify-content: center;
-  width: 100vw;  
-  height: 400px;      
-  margin: 0;  
-  padding: 0;
+@media (min-width: 1024px) {
+  .homeheader {
+    height: 30vh;          /* taller on desktop */
+    max-height: 350px;
+    font-size: 1.2rem;
+  }
+  .games-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    padding-top: 200px;
+  }
 }
+
+
+@media (max-width: 600px) {
+  .homeheader {
+    height: 20vh;          /* smaller header on mobile */
+    min-height: 120px;
+    padding: 0.5rem;
+    font-size: 0.9rem;     /* shrink text inside */
+  }
+  .games-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+  }
+}
+
 
 .homeheader img {
   width: 100%; 
@@ -55,12 +79,7 @@ code {
 
 }
 
-.games-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
+
 
 .game-card {
   width: 200px;      /* same width for all cards */

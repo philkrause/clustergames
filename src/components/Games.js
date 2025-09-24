@@ -19,6 +19,11 @@ const SlotGames = () => {
   const base_url = "clustergames.io"
   const games = [
     {
+      name: 'StarWars Surivivor',
+      image: sw,
+      link: `https://sw.${base_url}`
+    },
+    {
       name: '5285 AD',
       image: wolf,
       link: `https://thewolf.${base_url}`
@@ -37,11 +42,6 @@ const SlotGames = () => {
       name: 'Space Game',
       image: space,
       link: `https://space.${base_url}`
-    },
-    {
-      name: 'StarWars Surivivor',
-      image: sw,
-      link: `https://sw.${base_url}`
     }
   ];
 
