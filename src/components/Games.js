@@ -3,7 +3,7 @@ import wolf from '../images/wolf-clustergames.png'
 import bets from '../images/bets-clustergames.png'
 import unity3d from '../images/3d-clustergames.png'
 import space from '../images/space-clustergames.png'
-import sw from '../images/sw-clustergames.png'
+import sw from '../images/mech.jpg'
 
 
 
@@ -19,9 +19,9 @@ const SlotGames = () => {
   const base_url = "clustergames.io"
   const games = [
     {
-      name: 'StarWars Surivivor',
+      name: 'Mech Surivivor',
       image: sw,
-      link: `https://sw.${base_url}`
+      link: `https://mech.${base_url}`
     },
     {
       name: '5285 AD',
