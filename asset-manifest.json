@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edeec033.css",
+    "main.js": "/static/js/main.97663c4d.js",
+    "static/js/453.a1163136.chunk.js": "/static/js/453.a1163136.chunk.js",
+    "static/media/wolf-clustergames.png": "/static/media/wolf-clustergames.53e209ebb3e6fd663a12.png",
+    "static/media/space-clustergames.png": "/static/media/space-clustergames.323155aba02ba5e3f4a9.png",
+    "static/media/cg_header.png": "/static/media/cg_header.6283dfffb2e3cca00ec3.png",
+    "static/media/mech.jpg": "/static/media/mech.630d2e085f3e77c41142.jpg",
+    "static/media/bets-clustergames.png": "/static/media/bets-clustergames.f4658683a9afd699e869.png",
+    "static/media/3d-clustergames.png": "/static/media/3d-clustergames.a9573c78249b98eebb55.png",
+    "index.html": "/index.html",
+    "main.edeec033.css.map": "/static/css/main.edeec033.css.map",
+    "main.97663c4d.js.map": "/static/js/main.97663c4d.js.map",
+    "453.a1163136.chunk.js.map": "/static/js/453.a1163136.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edeec033.css",
+    "static/js/main.97663c4d.js"
+  ]
+}
