@@ -15,6 +15,9 @@ export default function HomePage() {
          <SlotGames></SlotGames>
         </div>
       </section>
+      <footer className='site-footer'>
+        <a href="/privacy.html">Privacy Policy</a>
+      </footer>
     </>
   )
 }
